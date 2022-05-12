@@ -1,0 +1,7 @@
+Git init - Usado para criar um repositório.
+Git add - Usado para adicionar um arquivo.
+Git clone - O comando git clone é usado para fins de verificação de repositório.
+Git commit - O comando git commit é usado para confirmar as alterações na cabeça.
+Git status - Exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
+Git branch - O comando git branch pode ser usado para listar, criar ou excluir ramos.
+Git push - Usado para enviar as alterações feitas para o ramo mestre do repositório.
